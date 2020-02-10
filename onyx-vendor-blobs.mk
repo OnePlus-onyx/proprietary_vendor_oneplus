@@ -55,7 +55,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/onyx/proprietary/etc/firmware/tfa98xx.cnt:system/etc/firmware/tfa98xx.cnt \
     vendor/oneplus/onyx/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
     vendor/oneplus/onyx/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
-    vendor/oneplus/onyx/proprietary/priv-app/com.qualcomm.location/com.qualcomm.location.apk:system/priv-app/com.qualcomm.location/com.qualcomm.location.apk \
     vendor/oneplus/onyx/proprietary/bin/loc_launcher:system/bin/loc_launcher \
     vendor/oneplus/onyx/proprietary/bin/location-mq:system/bin/location-mq \
     vendor/oneplus/onyx/proprietary/bin/lowi-server:system/bin/lowi-server \
@@ -158,8 +157,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/onyx/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
     vendor/oneplus/onyx/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so \
     vendor/oneplus/onyx/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
-    vendor/oneplus/onyx/proprietary/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk:system/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk \
-    vendor/oneplus/onyx/proprietary/app/shutdownlistener/shutdownlistener.apk:system/app/shutdownlistener/shutdownlistener.apk \
     vendor/oneplus/onyx/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/oneplus/onyx/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/oneplus/onyx/proprietary/bin/radish:system/bin/radish \
@@ -193,7 +190,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/onyx/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/oneplus/onyx/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/oneplus/onyx/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
-    vendor/oneplus/onyx/proprietary/app/TimeService/TimeService.apk:system/app/TimeService/TimeService.apk \
     vendor/oneplus/onyx/proprietary/etc/firmware/venus.b01:system/etc/firmware/venus.b01 \
     vendor/oneplus/onyx/proprietary/etc/firmware/venus.b02:system/etc/firmware/venus.b02 \
     vendor/oneplus/onyx/proprietary/etc/firmware/venus.b03:system/etc/firmware/venus.b03 \
