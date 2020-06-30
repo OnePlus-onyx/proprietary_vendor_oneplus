@@ -319,12 +319,5 @@ PRODUCT_PACKAGES += \
     libwpa_qmi_eap_proxy \
     libTimeService \
     libtime_genoff \
-    OnePlusCamera \
-    OnePlusCameraService \
-    TimeService \
-    shutdownlistener \
-    qcrilmsgtunnel \
-    ConnectivityExt \
-    org.codeaurora.camera \
     qcnvitems \
     qcrilhook
