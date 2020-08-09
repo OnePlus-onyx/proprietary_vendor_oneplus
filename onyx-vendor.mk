@@ -273,10 +273,4 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libwpa_qmi_eap_proxy \
     libTimeService \
-    libtime_genoff \
-    TimeService \
-    shutdownlistener \
-    qcrilmsgtunnel \
-    ConnectivityExt \
-    qcnvitems \
-    qcrilhook
+    libtime_genoff 
